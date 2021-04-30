@@ -1,0 +1,13 @@
+kappa = 10
+eta = 0.3
+epsilon = 30
+gamma = 3
+chi = 0.3
+alfa = 0.3
+theta = 0.3
+delta = 3
+pi = 3.14
+p = 0.1
+w = 1
+nu = 3
+psi = 10
